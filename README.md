@@ -11,8 +11,8 @@ into a csv format for graphing.
 
 2) Graphing.  
 
-There are a bunch of dirty scripts I was using to generate graphs from the .csv files using matplotlib.  Use/modify as required, matplotlib can do a lot and I'm probably just scratching the surface.
-gen_graph.py is used to create a graph of the day's solar yield.  The other scripts can be used to output graphs of monthly summary outputs (generated using the other scripts).
+There are a bunch of dirty scripts to generate graphs from the .csv files using matplotlib.  Use/modify as required, matplotlib can do a lot and I'm probably just scratching the surface.
+gen_graph.py is the main one and was used to create a graph of the day's solar yield.  The other scripts can be used to output graphs of monthly summary outputs (generated using the other scripts).
 
 I've added a doc outlining the VE.Direct protocol description as downloaded from the Victron website.
 
